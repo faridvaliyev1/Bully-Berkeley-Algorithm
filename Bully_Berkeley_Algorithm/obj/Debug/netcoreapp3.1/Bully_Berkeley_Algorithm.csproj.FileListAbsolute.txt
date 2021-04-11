@@ -1,0 +1,13 @@
+C:\Users\Farid\source\repos\Bully_Berkeley_Algorithm\Bully_Berkeley_Algorithm\bin\Debug\netcoreapp3.1\Bully_Berkeley_Algorithm.exe
+C:\Users\Farid\source\repos\Bully_Berkeley_Algorithm\Bully_Berkeley_Algorithm\bin\Debug\netcoreapp3.1\Bully_Berkeley_Algorithm.deps.json
+C:\Users\Farid\source\repos\Bully_Berkeley_Algorithm\Bully_Berkeley_Algorithm\bin\Debug\netcoreapp3.1\Bully_Berkeley_Algorithm.runtimeconfig.json
+C:\Users\Farid\source\repos\Bully_Berkeley_Algorithm\Bully_Berkeley_Algorithm\bin\Debug\netcoreapp3.1\Bully_Berkeley_Algorithm.runtimeconfig.dev.json
+C:\Users\Farid\source\repos\Bully_Berkeley_Algorithm\Bully_Berkeley_Algorithm\bin\Debug\netcoreapp3.1\Bully_Berkeley_Algorithm.dll
+C:\Users\Farid\source\repos\Bully_Berkeley_Algorithm\Bully_Berkeley_Algorithm\bin\Debug\netcoreapp3.1\Bully_Berkeley_Algorithm.pdb
+C:\Users\Farid\source\repos\Bully_Berkeley_Algorithm\Bully_Berkeley_Algorithm\obj\Debug\netcoreapp3.1\Bully_Berkeley_Algorithm.csprojAssemblyReference.cache
+C:\Users\Farid\source\repos\Bully_Berkeley_Algorithm\Bully_Berkeley_Algorithm\obj\Debug\netcoreapp3.1\Bully_Berkeley_Algorithm.AssemblyInfoInputs.cache
+C:\Users\Farid\source\repos\Bully_Berkeley_Algorithm\Bully_Berkeley_Algorithm\obj\Debug\netcoreapp3.1\Bully_Berkeley_Algorithm.AssemblyInfo.cs
+C:\Users\Farid\source\repos\Bully_Berkeley_Algorithm\Bully_Berkeley_Algorithm\obj\Debug\netcoreapp3.1\Bully_Berkeley_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Farid\source\repos\Bully_Berkeley_Algorithm\Bully_Berkeley_Algorithm\obj\Debug\netcoreapp3.1\Bully_Berkeley_Algorithm.dll
+C:\Users\Farid\source\repos\Bully_Berkeley_Algorithm\Bully_Berkeley_Algorithm\obj\Debug\netcoreapp3.1\Bully_Berkeley_Algorithm.pdb
+C:\Users\Farid\source\repos\Bully_Berkeley_Algorithm\Bully_Berkeley_Algorithm\obj\Debug\netcoreapp3.1\Bully_Berkeley_Algorithm.genruntimeconfig.cache

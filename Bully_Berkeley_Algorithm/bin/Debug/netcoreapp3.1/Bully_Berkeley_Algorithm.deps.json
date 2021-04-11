@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Bully_Berkeley_Algorithm/1.0.0": {
+        "runtime": {
+          "Bully_Berkeley_Algorithm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bully_Berkeley_Algorithm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
